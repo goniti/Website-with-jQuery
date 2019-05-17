@@ -1,3 +1,3 @@
 # Animated page with jQuery 
 
-[DEMO](https://goniti.github.io/website-topactrice/)
+[DEMO](https://goniti.github.io/topactrice-website/)
