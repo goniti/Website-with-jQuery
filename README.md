@@ -1,1 +1,1 @@
-# [Your Title](https://goniti.github.io/Website-with-jQuery/)
+# Animated page with jQuery [Démo](https://goniti.github.io/Website-with-jQuery/)
